@@ -1,0 +1,133 @@
+<mxfile host="Electron" modified="2023-05-03T06:17:44.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="Qw1RPuYXyAVTiGBFSsiS" version="21.2.1" type="device">
+  <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
+    <mxGraphModel dx="2074" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="677b7b8949515195-1" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="1060" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;LOGO&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="30" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-8" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="610" width="330" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-9" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="70" width="1060" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-10" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="80" width="1050" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-11" value="Home" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="95" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-12" value="Import/Export" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="120" y="95" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-13" value="Analysis tools" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="260" y="95" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-14" value="QR Marker Configuration&amp;nbsp;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="400" y="95" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="180" width="480" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-3" value="Playback options" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="530" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-4" value="General Analytics&amp;nbsp;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="130" y="625" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-5" value="Time Frame&amp;nbsp;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="655" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-7" value="Fixation points&amp;nbsp;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="687.5" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-8" value="Saccade Time" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="715" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-9" value="Fixation to Saccade ratio" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="745" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="655" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-11" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="610" width="330" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-19" value="QR Space Analytics" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="480" y="625" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-20" value="Time Frame&amp;nbsp;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="400" y="655" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-21" value="Fixation points&amp;nbsp;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="400" y="687.5" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-22" value="Saccade Time" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="400" y="715" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-23" value="Fixation to Saccade ratio" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="400" y="745" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="655" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-25" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="610" width="330" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-26" value="AOI Analytics" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="860" y="625" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-27" value="Time Frame&amp;nbsp;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="750" y="655" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-28" value="Fixation points&amp;nbsp;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="750" y="687.5" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-29" value="Saccade Time" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="750" y="715" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-30" value="Fixation to Saccade ratio" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="750" y="745" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="655" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-34" value="Pupilometry time evolution" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="775" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-36" value="Pupilometry time evolution" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="400" y="775" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-37" value="Pupilometry time evolution" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="750" y="775" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-38" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="180" width="480" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-39" value="Playback options - video in QR space with overlays - if enabled" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="530" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-41" value="Reset Analytics" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="50" y="130" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="qwBX4drv_svDkVCXMGxv-42" value="Quit" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="50" y="227.5" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="BJdUFU8-9-T_cv2VWLV_-6" value="Save Analytics" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="50" y="165" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="BJdUFU8-9-T_cv2VWLV_-7" value="Load Analytics" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="50" y="195" width="60" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
